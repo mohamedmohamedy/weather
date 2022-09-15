@@ -15,8 +15,9 @@ The whole code is witten in clean architecture that depends on Uncle Bob princip
 I used [Openweathermap](https://openweathermap.org/api) for the weather data
 
 ### Dependencies
-
+<p align="center">
 ![weather3](https://user-images.githubusercontent.com/80913778/190519931-ebe19cdd-56c8-44be-a38f-8c73d3014feb.png)
+</p>
 
 
 ### Video Record

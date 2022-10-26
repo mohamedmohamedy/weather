@@ -6,8 +6,6 @@ App concept created with [Flutter](https://flutter.dev/) using Dart programming 
 
 An application weather that provides the current weather and five days forecast, although you can add a favorite city to shows it's weather directly, and you can add other locations as well.
 
-### Design pattern
-
 The whole code is witten in clean architecture that depends on Uncle Bob principals, Although the application depends on BLoC statemanagment to link the data and bussness logic with the UI layers.
 
 ### API
